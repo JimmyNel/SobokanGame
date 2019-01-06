@@ -1,0 +1,15 @@
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\bin\Debug\Sobokan.exe.config
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\bin\Debug\Sobokan.exe
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\bin\Debug\Sobokan.pdb
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan.csprojAssemblyReference.cache
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\MainWindow.g.cs
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\App.g.cs
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan_MarkupCompile.cache
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan_MarkupCompile.lref
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\MainWindow.baml
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan.g.resources
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan.Properties.Resources.resources
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan.csproj.GenerateResource.cache
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan.csproj.CoreCompileInputs.cache
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan.exe
+C:\Users\PC Jimmy\source\repos\Sobokan\Sobokan\obj\Debug\Sobokan.pdb
